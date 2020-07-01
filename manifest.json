@@ -2,7 +2,7 @@
   "description": "标签页切换小工具,使用Alt+Num切换到对应的标签页上",
   "manifest_version": 2,
   "name": "TabSwitcher",
-  "version": "1.0",
+  "version": "1.1",
   "homepage_url": "https://github.com/sidian123/TabSwicher",
   "icons": {
     "48": "icons/beasts-48.png"
